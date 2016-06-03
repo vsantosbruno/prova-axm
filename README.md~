@@ -10,7 +10,7 @@ Regras para o cadastro de usuários tabela ( usuario ) :
  	1 – Usuário não podem ser duplicados;
 	2 – Verificar os campos obrigatório na base de dados;
 
- Regras para o cadastro do fornecedores tabela ( fornecedor ):
+ Regras para o cadastro do fornecedores ( fornecedor ):
 	1 – CPF  não podem ser duplicados;
 	2 – Verificar os campos obrigatório na base de dados;
 
